@@ -389,6 +389,7 @@ a:hover {
   width: 100%;
   position: relative;
   background-color: #0E1D28;
+  min-height: 500px;
 }
 .foot-video::after {
   content: "";
