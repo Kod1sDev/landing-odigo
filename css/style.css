@@ -391,18 +391,6 @@ a:hover {
   background-color: #0E1D28;
   height: 100vh;
 }
-.foot-video::after {
-  content: "";
-  position: absolute;
-  z-index: 2;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  background: url("../img/svg/play.svg") no-repeat;
-  pointer-events: none;
-  width: 112px;
-  height: 112px;
-}
 
 .footer {
   padding: 120px 0;
